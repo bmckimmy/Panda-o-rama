@@ -5,6 +5,9 @@ This is a data analysis project in which we explored and analyzed AirBnB listing
 ## Group members
 Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 
+## Presentation deck
+[PANDA-O-RAMA presentation 1.10.24](https://docs.google.com/presentation/d/17GM5uTyxJLzCg_lRaqT9b2IzwyCeK1Y-QrRTiDBBgus/edit#slide=id.g2ac28b1027f_1_135)
+
 
 ## Exploratory questions:
 1. Which factors influence listing price?
