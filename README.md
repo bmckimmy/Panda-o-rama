@@ -50,5 +50,5 @@ In completing this project, we referenced the following resources:
 * class activities
 * class slide decks
 * Chat GPT assistance prompt (provided by the instructor to serve as a teaching assistant)
-* 
-* 
+  
+  
