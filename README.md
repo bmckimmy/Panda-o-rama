@@ -1,1 +1,1 @@
-# Pand-o-rama
+# Panda-o-rama
