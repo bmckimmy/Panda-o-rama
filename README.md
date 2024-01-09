@@ -12,10 +12,15 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 3. What role, if any, does the host play in price and overall rating?
 
 ## Repository map
-| File         | Contents       | Location      |
+| Content         | Folder       | Link      |
 |:-------------|:---------------|:--------------|
-|Initial code to read in data sources, concatenate into master data file, and begin price data exploration          |       Text     |[Panda-o-rama/BM_files/priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
-| More         |       More     |          More |
+| original downloaded data |BM_files/cities                                    |         [original data](https://github.com/bmckimmy/Panda-o-rama/tree/main/BM_files/cities) |
+|read in data sources<br>concatenate master data file<br>price data exploration|BM_files               |[priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
+| consolidated master data csv file|BM_files|         [all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
+| rating data exploration|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/Overall_Rating-arrival-of-the-birds.ipynb) |
+| all_listings_df|Consolidated master data csv file|         [Panda-o-rama\BM_files\all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
+| all_listings_df|Consolidated master data csv file|         [Panda-o-rama\BM_files\all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
+| all_listings_df|Consolidated master data csv file|         [Panda-o-rama\BM_files\all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
 
 
 * Initial code to read in data sources, concatenate into master data file, and begin price data exploration
