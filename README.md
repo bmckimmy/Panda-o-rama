@@ -17,7 +17,7 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | original downloaded data |BM_files/cities                                    |         [original data](https://github.com/bmckimmy/Panda-o-rama/tree/main/BM_files/cities) |
 |read in data sources<br>concatenate master data file<br>price data exploration|BM_files               |[priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
 | consolidated master data csv file|BM_files|         [all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
-| rating data analysis|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/Overall_Rating-arrival-of-the-birds.ipynb) |
+| rating analysis|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/Overall_Rating-arrival-of-the-birds.ipynb) |
 | price-rating-host correlation analysis|MM_files|         [mm_price_corr.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_corr.ipynb) |
 | price to neighbourhood analysis|MM_files|         [mm_price_neighbourhood.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_neighbourhood.ipynb) |
 | price to occupancy analysis|MM_files|         [mm_price_occupancy.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_occupancy.ipynb) |
@@ -25,7 +25,6 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | host analysis|SB_files|         [sb_host.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
 
 
-* Initial code to read in data sources, concatenate into master data file, and begin price data exploration
 
 ## Data source:
 [Inside Airbnb](http://insideairbnb.com/about/)
