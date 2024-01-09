@@ -6,7 +6,7 @@ This is a data analysis project in which we explored and analyzed AirBnB listing
 Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 
 ## Presentation deck
-[PANDA-O-RAMA presentation 1.10.24](https://docs.google.com/presentation/d/17GM5uTyxJLzCg_lRaqT9b2IzwyCeK1Y-QrRTiDBBgus/edit#slide=id.g2ac28b1027f_1_135)
+[PANDA-O-RAMA presentation 1.10.24](https://docs.google.com/presentation/d/17GM5uTyxJLzCg_lRaqT9b2IzwyCeK1Y-QrRTiDBBgus/edit?usp=sharing)
 
 
 ## Exploratory questions:
@@ -27,7 +27,8 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | price to property type analysis|MM_files|         [mm_price_prop_type.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
 | host analysis|SB_files|         [sb_host.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
 
-
+## Team notes documentation
+[Team Notes](https://docs.google.com/document/d/1-1hE4sFtCCT9qMrB0x5Y4YM64WZ3RDoYg1oalAciQw0/edit?usp=sharing)
 
 ## Data source:
 [Inside Airbnb](http://insideairbnb.com/about/)
