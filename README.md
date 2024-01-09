@@ -11,6 +11,15 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 2. Which factors influence overall rating?
 3. What role, if any, does the host play in price and overall rating?
 
+## Repository map
+| File         | Contents       | Location      |
+|:-------------|:---------------|:--------------|
+|Initial code to read in data sources, concatenate into master data file, and begin price data exploration          |       Text     |[Panda-o-rama/BM_files/priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
+| More         |       More     |          More |
+
+
+* Initial code to read in data sources, concatenate into master data file, and begin price data exploration
+
 ## Data source:
 [Inside Airbnb](http://insideairbnb.com/about/)
 
