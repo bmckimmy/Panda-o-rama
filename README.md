@@ -28,7 +28,8 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | host analysis|SB_files|         [sb_host.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
 
 ## Team notes documentation
-[Team Notes](https://docs.google.com/document/d/1-1hE4sFtCCT9qMrB0x5Y4YM64WZ3RDoYg1oalAciQw0/edit?usp=sharing)
+[Team Notes](https://docs.google.com/document/d/1-1hE4sFtCCT9qMrB0x5Y4YM64WZ3RDoYg1oalAciQw0/edit?usp=sharing)<br>
+We used this group document to take notes during our group sessions, collaborate on ideas asynchronously, and keep track of action items and progress. We are sharing it here to provide insight into our group collaboration process.
 
 ## Data source:
 [Inside Airbnb](http://insideairbnb.com/about/)
