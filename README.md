@@ -21,6 +21,8 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | price-rating-host correlation analysis|MM_files|         [mm_price_corr.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_corr.ipynb) |
 | price to neighbourhood analysis|MM_files|         [mm_price_neighbourhood.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_neighbourhood.ipynb) |
 | price to occupancy analysis|MM_files|         [mm_price_occupancy.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_occupancy.ipynb) |
+| price to property type analysis|MM_files|         [mm_price_prop_type.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
+| host analysis|SB_files|         [sb_host.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_prop_type.ipynb) |
 
 
 * Initial code to read in data sources, concatenate into master data file, and begin price data exploration
