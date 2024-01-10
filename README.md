@@ -21,7 +21,7 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 |read in data sources<br>concatenate master data file<br>price data exploration|BM_files               |[priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
 | consolidated master data csv file|BM_files|         [all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
 | rating analysis|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/JZD_Overall_Rating.ipynb) |
-| Correlation Matrix|JZD_files|         [Correlation plot.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/JZD_Correlation%20plot.ipynb) |
+| correlation matrix|JZD_files|         [Correlation plot.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/JZD_Correlation%20plot.ipynb) |
 | price-rating-host correlation analysis|MM_files|         [mm_price_corr.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_corr.ipynb) |
 | price to neighbourhood analysis|MM_files|         [mm_price_neighbourhood.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_neighbourhood.ipynb) |
 | price to occupancy analysis|MM_files|         [mm_price_occupancy.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_occupancy.ipynb) |
