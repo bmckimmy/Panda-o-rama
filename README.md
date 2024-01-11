@@ -6,7 +6,7 @@ This is a data analysis project in which we explored and analyzed AirBnB listing
 Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 
 ## Presentation deck
-[PANDA-O-RAMA presentation 1.10.24](https://docs.google.com/presentation/d/17GM5uTyxJLzCg_lRaqT9b2IzwyCeK1Y-QrRTiDBBgus/edit?usp=sharing)
+[PANDA-O-RAMA.pdf](https://github.com/bmckimmy/Panda-o-rama/blob/main/PANDA-O-RAMA.pdf)
 
 
 ## Exploratory questions:
@@ -20,7 +20,8 @@ Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 | original downloaded data |BM_files/cities                                    |         [original data](https://github.com/bmckimmy/Panda-o-rama/tree/main/BM_files/cities) |
 |read in data sources<br>concatenate master data file<br>price data exploration|BM_files               |[priceairbnb.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/priceairbnb.ipynb) |
 | consolidated master data csv file|BM_files|         [all_listings_df](https://github.com/bmckimmy/Panda-o-rama/blob/main/BM_files/all_listings_df) |
-| rating analysis|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/Overall_Rating-arrival-of-the-birds.ipynb) |
+| rating analysis|JZD_files|         [Overall_Rating.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/JZD_Overall_Rating.ipynb) |
+| correlation matrix|JZD_files|         [Correlation plot.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/JZD_files/JZD_Correlation%20plot.ipynb) |
 | price-rating-host correlation analysis|MM_files|         [mm_price_corr.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_corr.ipynb) |
 | price to neighbourhood analysis|MM_files|         [mm_price_neighbourhood.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_neighbourhood.ipynb) |
 | price to occupancy analysis|MM_files|         [mm_price_occupancy.ipynb](https://github.com/bmckimmy/Panda-o-rama/blob/main/MM_files/mm_price_occupancy.ipynb) |
@@ -55,5 +56,8 @@ In completing this project, we referenced the following resources:
 * class activities
 * class slide decks
 * Chat GPT assistance prompt (provided by the instructor to serve as a teaching assistant)
+* The following websites:
+  * https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
+  * https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
   
   
