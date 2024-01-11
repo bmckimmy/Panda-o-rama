@@ -6,7 +6,7 @@ This is a data analysis project in which we explored and analyzed AirBnB listing
 Brandon McKimmy, Jennifer Dahlgren, Meredith McCanse, Sonja Baro
 
 ## Presentation deck
-[PANDA-O-RAMA.pdf](https://github.com/bmckimmy/Panda-o-rama/blob/main/PANDA-O-RAMA.pdf)
+[PANDA-O-RAMA Presentation 1.10.24](https://github.com/bmckimmy/Panda-o-rama/blob/main/PANDA-O-RAMA.pdf)
 
 
 ## Exploratory questions:
